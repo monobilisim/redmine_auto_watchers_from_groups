@@ -1,6 +1,5 @@
 require 'redmine'
-
-require_dependency 'auto_watchers_from_groups'
+require File.dirname(__FILE__) + '/lib/auto_watchers_from_groups.rb'
 
 Redmine::Plugin.register :redmine_auto_watchers_from_groups do
   name 'Redmine Auto Watchers From Groups plugin'
