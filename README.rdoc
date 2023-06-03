@@ -4,4 +4,4 @@ Add functionality to automatic add all members of group when issue(s) assigned t
 
 Groups affected this automatic watching could be specified on plugin settings page
 
-This is a Redmine 4.0 compatible fork of https://github.com/akuznecov/redmine_auto_watchers_from_groups.
+This is a Redmine 5.0 compatible fork of https://github.com/akuznecov/redmine_auto_watchers_from_groups.
